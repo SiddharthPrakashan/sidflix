@@ -1,0 +1,7 @@
+<a href="https://fontmeme.com/netflix-font/"><img src="https://fontmeme.com/permalink/200828/e664a7c75d06e64ae917052a7910c7f0.png" alt="netflix-font" border="0"></a>
+
+[url=https://fontmeme.com/netflix-font/][img]https://fontmeme.com/permalink/200828/e664a7c75d06e64ae917052a7910c7f0.png[/img][/url]
+
+https://fontmeme.com/permalink/200828/e664a7c75d06e64ae917052a7910c7f0.png
+
+var_dump($query->errorInfo());
